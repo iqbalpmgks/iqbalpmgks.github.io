@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
+title:      "Bagaimana menjadi seorang System Analyst?"
+subtitle:   "Langkah-langkah yang harus kalian lakukan dalam berkarir sebagai Analisa Sistem"
 date:       2014-06-10 12:00:00
-author:     "Start Bootstrap"
+author:     "Muhammad Iqbal Pamungkas"
 header-img: "img/post-bg-01.jpg"
 ---
 
