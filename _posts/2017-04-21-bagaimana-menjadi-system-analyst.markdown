@@ -7,10 +7,10 @@ author:     "Muhammad Iqbal Pamungkas"
 header-img: "img/post-bg-01.jpg"
 ---
 
-<h2>Haruskah menjadi seorang system analyst?</h2>
+<h4 class="section-heading">Haruskah menjadi seorang system analyst?</h4>
 <p><b>Analis sistem</b>, biasa disebut sebagai analis sistem komputer, melakukan research sistem komputer dan prosedur bisnis perusahaan untuk menentukan bagaimana perusahaan dapat beroperasi dengan lebih efisien. Mereka mungkin menentukan apakah teknologi baru dapat membantu perusahaan, serta menganalisis biaya dan manfaat penerapan sistem baru. Selain itu, seorang analis dapat mengawasi peningkatan sistem komputer yang ada atau pemasangan sistem baru disamping pelatihan karyawan.</p>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+<p>Analis sistem dapat bekerja di berbagai industri, namun umumnya memegang posisi penuh waktu; Bagi sebagian orang, lembur sering terjadi. Analis dapat bekerja secara langsung untuk satu perusahaan atau dipekerjakan oleh perusahaan konsultan komputer. Meskipun beberapa analis sistem kerja dapat dilakukan secara independen, sebagian besar beban kerja mereka memerlukan kolaborasi dengan profesional TI lainnya. Perjalanan jarak jauh ke lokasi klien mungkin diperlukan untuk pekerjaan dan proyek tertentu.</p>
 
 <p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
 
