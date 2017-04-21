@@ -2,12 +2,13 @@
 layout:     post
 title:      "Bagaimana menjadi seorang System Analyst?"
 subtitle:   "Langkah-langkah yang harus kalian lakukan dalam berkarir sebagai Analisa Sistem"
-date:       2014-06-10 12:00:00
+date:       2017-04-21 22:28:00
 author:     "Muhammad Iqbal Pamungkas"
 header-img: "img/post-bg-01.jpg"
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<h2>Haruskah menjadi seorang system analyst?</h2>
+<p><b>Analis sistem</b>, biasa disebut sebagai analis sistem komputer, melakukan research sistem komputer dan prosedur bisnis perusahaan untuk menentukan bagaimana perusahaan dapat beroperasi dengan lebih efisien. Mereka mungkin menentukan apakah teknologi baru dapat membantu perusahaan, serta menganalisis biaya dan manfaat penerapan sistem baru. Selain itu, seorang analis dapat mengawasi peningkatan sistem komputer yang ada atau pemasangan sistem baru disamping pelatihan karyawan.</p>
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
